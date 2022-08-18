@@ -43,3 +43,8 @@ var x = "Jane Doe"
 <h2>Userstory008</h2>
 
 :smiley:
+
+<h2>Userstory009</h2>
+
+This is a horizontal ruler:
+<hr/>
