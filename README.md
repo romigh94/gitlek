@@ -38,4 +38,4 @@ var x = "Jane Doe"
 
 <h2>Userstory007</h2>
 
-<p>**Bold text** and *italic text*</p>
+**Bold text** and *italic text*
