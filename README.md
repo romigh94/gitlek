@@ -35,3 +35,7 @@ var x = "Jane Doe"
 |:---------------|:---------------:|----------------:|
 |**Row1** *Cell1*| **Row1** *Cell2*| **Row1** *Cell3*|
 |**Row2** *Cell4*| **Row2** *Cell5*| **Row3** *Cell4*|
+
+<h2>Userstory007</h2>
+
+<p>**Bold text** and *italic text*</p>
