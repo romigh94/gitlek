@@ -39,3 +39,7 @@ var x = "Jane Doe"
 <h2>Userstory007</h2>
 
 **Bold text** and *italic text*
+
+<h2>Userstory008</h2>
+
+:smiley:
