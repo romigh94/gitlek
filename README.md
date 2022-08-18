@@ -48,3 +48,20 @@ var x = "Jane Doe"
 
 This is a horizontal ruler:
 <hr/>
+
+<h2>Userstory010</h2>
+
+ordered list:
+1. item one
+2. item two
+3. item three
+
+unordered list:
++ item one
++ item two
++ item three
+
+todo list:
+- [ ]todo one
+- [x]todo two
+- [x]todo three
